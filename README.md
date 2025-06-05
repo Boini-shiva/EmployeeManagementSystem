@@ -29,7 +29,7 @@ This is a **command-line-based Employee Management System** developed in **Pytho
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/Boini-shiva/EmployeeManagementSystem
 cd employee-management-system
 
 📝 Usage
